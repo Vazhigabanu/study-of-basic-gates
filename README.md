@@ -72,13 +72,12 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+<img width="1920" height="1200" alt="Screenshot 2025-11-20 212250" src="https://github.com/user-attachments/assets/a0da8669-6622-4c1e-a92c-ea9a957b706d" />
 
 **RTL**
+<img width="1920" height="1200" alt="Screenshot 2025-11-20 212924" src="https://github.com/user-attachments/assets/1233e514-7798-4dcc-b157-a5e749a1cfef" />
 
 **Result:**
-<img width="1910" height="1198" alt="Screenshot 2025-11-20 155706" src="https://github.com/user-attachments/assets/aebaf271-e5d1-4a77-9c43-6d8440303768" />
-<img width="1919" height="1199" alt="Screenshot 2025-11-20 161311" src="https://github.com/user-attachments/assets/3a7f86af-d688-48f5-94e3-834ebce083d1" />
-
-
+Thus the different digital IC's are studied and the truth table for differentlogic gates are verified
 
 
