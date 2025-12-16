@@ -86,10 +86,11 @@ endmodule
 ![truth table Image 2025-11-22 at 23 31 55_8eb8372c](https://github.com/user-attachments/assets/f8ed4ccc-6036-458e-b593-c807f391a0f9)
 
 **RTL realization Output:** 
-<img width="1920" height="1200" alt="Screenshot 2025-11-20 212250" src="https://github.com/user-attachments/assets/1028c503-827e-45ae-b72d-39fdc7d883e4" />
+<img width="1828" height="998" alt="Screenshot 2025-12-16 212529" src="https://github.com/user-attachments/assets/c07640f9-93dc-4204-b1a4-7cade9ab29b7" />
 
 **RTL**
-<img width="1920" height="1200" alt="Screenshot 2025-11-20 212924" src="https://github.com/user-attachments/assets/ed5bf4cb-260f-45a2-9ff6-6763af79320f" />
+><img width="1757" height="902" alt="Screenshot 2025-12-16 212959" src="https://github.com/user-attachments/assets/3526c255-4f1d-4de4-9185-ed42f1d3ba5f" />
+
 
 
 **Result:**
